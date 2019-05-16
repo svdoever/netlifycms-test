@@ -12,3 +12,9 @@ tags:
 ![](/img/flavor_wheel.jpg "Test")
 
 faklsjdalskdja
+
+```javascript
+function() {
+  // test
+}
+```
